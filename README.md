@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/part-db?utm_medium=integration&utm_source=button&utm_campaign=part-db)
+
 # Part-DB on Railway
 
 Railway template for [Part-DB](https://github.com/Part-DB/Part-DB-server), an open-source inventory manager for electronic components.
